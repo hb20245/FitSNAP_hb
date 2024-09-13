@@ -1,5 +1,5 @@
 Installation
-============
+===============
 
 This page documents how to properly install LAMMPS and FitSNAP. First we begin with how to install 
 LAMMPS specifically for FitSNAP. 

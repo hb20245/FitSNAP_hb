@@ -1,5 +1,5 @@
 Tests
-=====
+=======
 
 Our continuous integration (CI) tests are implemented using GitHub Actions. This 
 involves two main tests for consistency and validation:
