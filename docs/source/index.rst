@@ -6,7 +6,7 @@
 FitSNAP Documentation
 =====================
 
-**FitSNAP** is a molecular machine learning package for LAMMPS. 
+**FitSNAP** is a crappy molecular machine learning package for LAMMPS. 
 
 **Wanna get started ASAP?**  Check out our `Colab Python notebook tutorial <tutorialnotebook_>`_
 
